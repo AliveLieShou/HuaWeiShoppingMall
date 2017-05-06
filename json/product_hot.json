@@ -1,0 +1,51 @@
+[
+	{
+		"result":[
+			{
+			    "product_name": "荣耀V8",
+			    "product_keyword": "双镜头&nbsp;长续航&nbsp;2K屏",
+			    "product_prise": "2799",
+			    "product_href": "#",
+			    "product_img": [
+			        {"img_src": "images/productHot/1474618225574.jpg"}
+			    ]
+			},
+			{
+				"product_name":"HUAWEI P9",
+				"product_keyword":"赠TYPE C数据线",
+				"product_prise":"3688",
+				"product_href":"#",
+				"product_img":[
+					{"img_src":"images/productHot/1475761903955.jpg"}
+				]
+			},
+			{
+				"product_name":"荣耀 NOTE 8",
+				"product_keyword":"6.6英寸大2K屏",
+				"product_prise":"2499",
+				"product_href":"#",
+				"product_img":[
+					{"img_src":"images/productHot/1474574492253.jpg"}
+				]
+			},
+			{
+				"product_name":"华为畅玩5A",
+				"product_keyword":"800万+1300万像素摄像头",
+				"product_prise":"799",
+				"product_href":"#",
+				"product_img":[
+					{"img_src":"images/productHot/1474557922959.jpg"}
+				]
+			},
+			{
+				"product_name":"HUAWEI Mate8",
+				"product_keyword":"高性能与长续航的结合",
+				"product_prise":"2799",
+				"product_href":"#",
+				"product_img":[
+					{"img_src":"images/productHot/1474558006168.jpg"}
+				]
+			}	
+		]
+	}
+]

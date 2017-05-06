@@ -1,0 +1,114 @@
+[
+	{
+		"result":[
+			{
+				"product_name": "荣耀畅玩5X 双卡双待 双4G版 智能手机 (暗夜灰)",
+				"product_text":"",
+				"product_num":"10110010128101",
+				"product_prise":"1099",
+				"product_system":"双4G版",
+				"product_color":"暗夜灰",
+				"img_src":"images/detailPages/40_40_1466581805111mp.jpg"
+			},
+			{
+				"product_name": "荣耀畅玩5X 双卡双待 移动版 智能手机 (暗夜灰)",
+				"product_text":"",
+				"product_num":"10110010128102",
+				"product_prise":"999",
+				"product_system":"移动版",
+				"product_color":"暗夜灰",
+				"img_src":"images/detailPages/40_40_1466581805111mp.jpg"
+			},
+			{
+				"product_name": "荣耀畅玩5X 双卡双待 联通版 智能手机 (暗夜灰)",
+				"product_text":"",
+				"product_num":"10110010128103",
+				"product_prise":"999",
+				"product_system":"联通版",
+				"product_color":"暗夜灰",
+				"img_src":"images/detailPages/40_40_1466581805111mp.jpg"
+			},
+			{
+				"product_name": "荣耀畅玩5X 双卡双待 双4G版 智能手机 (破晓银)",
+				"product_text":"",
+				"product_num":"10110010128111",
+				"product_prise":"1099",
+				"product_system":"双4G版",
+				"product_color":"破晓银",
+				"img_src":"images/detailPages/40_40_1466581333663mp.jpg"
+			},
+			{
+				"product_name": "荣耀畅玩5X 双卡双待 移动版 智能手机 (破晓银)",
+				"product_text":"",
+				"product_num":"10110010128112",
+				"product_prise":"999",
+				"product_system":"移动版",
+				"product_color":"破晓银",
+				"img_src":"images/detailPages/40_40_1466581333663mp.jpg"
+			},
+			{
+				"product_name": "荣耀畅玩5X 双卡双待 联通版 智能手机 (破晓银)",
+				"product_text":"",
+				"product_num":"10110010128113",
+				"product_prise":"999",
+				"product_system":"联通版",
+				"product_color":"破晓银",
+				"img_src":"images/detailPages/40_40_1466581333663mp.jpg"
+			},
+			{
+				"product_name": "荣耀畅玩5X 双卡双待 双4G版 智能手机 (落日金)",
+				"product_text":"",
+				"product_num":"10110010128131",
+				"product_prise":"1099",
+				"product_system":"双4G版",
+				"product_color":"落日金",
+				"img_src":"images/detailPages/40_40_1466580068284mp.jpg"
+			},
+			{
+				"product_name": "荣耀畅玩5X 双卡双待 移动版 智能手机 (落日金)",
+				"product_text":"",
+				"product_num":"10110010128132",
+				"product_prise":"999",
+				"product_system":"移动版",
+				"product_color":"落日金",
+				"img_src":"images/detailPages/40_40_1466580068284mp.jpg"
+			},
+			{
+				"product_name": "荣耀畅玩5X 双卡双待 联通版 智能手机 (落日金)",
+				"product_text":"",
+				"product_num":"10110010128133",
+				"product_prise":"999",
+				"product_system":"联通版",
+				"product_color":"落日金",
+				"img_src":"images/detailPages/40_40_1466580068284mp.jpg"
+			}
+        ],
+        "getBigImg":{
+	        "small_img":[
+				"../images/detailPages/55_55_1466581805111mp.jpg",
+				"../images/detailPages/55_55_1466581769852.jpg",
+				"../images/detailPages/55_55_1466581772776.jpg",
+				"../images/detailPages/55_55_1466581775519.jpg",
+				"../images/detailPages/55_55_1466581781161.jpg",
+				"../images/detailPages/55_55_1466581791314.jpg",
+				"../images/detailPages/55_55_1466581794791.jpg",
+				"../images/detailPages/55_55_1466581797726.jpg",
+				"../images/detailPages/55_55_1466581800536.jpg"
+			],
+			"big_img":[	
+				"../images/detailPages/428_428_1466581805111mp.jpg",
+				"../images/detailPages/428_428_1466581769852.jpg",
+				"../images/detailPages/428_428_1466581772776.jpg",
+				"../images/detailPages/428_428_1466581775519.jpg",
+				"../images/detailPages/428_428_1466581781161.jpg",
+				"../images/detailPages/428_428_1466581791314.jpg",
+				"../images/detailPages/428_428_1466581794791.jpg",
+				"../images/detailPages/428_428_1466581797726.jpg",
+				"../images/detailPages/428_428_1466581800536.jpg"
+	        ]		
+        }
+  	}
+]
+    
+			
+		

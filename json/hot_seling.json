@@ -1,0 +1,62 @@
+[
+	{
+		"hotseling":[
+			{
+				"product_name":"荣耀8 4GB+32GB 全网通版(珠光白)",
+				"product_price":"2299",
+				"img_src":"../images/detailPages/60_60_1468464501073mp.jpg",
+				"product_href":"#"
+			},
+			{
+				"product_name":"荣耀V8 4GB+64GB 全网通版(香槟金)",
+				"product_price":"2799",
+				"img_src":"../images/detailPages/60_60_1467185894845mp.jpg",
+				"product_href":"#"
+			},
+			{
+				"product_name":"HUAWEI P9 全网通版(琥珀金)",
+				"product_price":"3688",
+				"img_src":"../images/detailPages/60_60_1467252520756mp.jpg",
+				"product_href":"#"
+			},
+			{
+				"product_name":"荣耀畅玩5C 移动版 智能手机(太空银)",
+				"product_price":"899",
+				"img_src":"../images/detailPages/60_60_1468566799394mp.jpg",
+				"product_href":"#"
+			},
+			{
+				"product_name":"华为 HUAWEI Mate 8 (月光银)",
+				"product_price":"2799",
+				"img_src":"../images/detailPages/60_60_1468899801017mp.jpg",
+				"product_href":"#"
+			},
+			{
+				"product_name":"荣耀7  全网通版(荣耀金)",
+				"product_price":"1799",
+				"img_src":"../images/detailPages/60_60_1468374371287mp.jpg",
+				"product_href":"#"
+			}
+		],
+		"resentbrowse":[
+			{
+				"product_name":"荣耀V8 4GB+64GB 全网通版(香槟金)",
+				"product_price":"2799",
+				"img_src":"../images/detailPages/60_60_1467185894845mp.jpg",
+				"product_href":"#"
+			},
+			{
+				"product_name":"HUAWEI P9 全网通版(琥珀金)",
+				"product_price":"3688",
+				"img_src":"../images/detailPages/60_60_1467252520756mp.jpg",
+				"product_href":"#"
+			},
+			{
+				"product_name":"荣耀7  全网通版(荣耀金)",
+				"product_price":"1799",
+				"img_src":"../images/detailPages/60_60_1468374371287mp.jpg",
+				"product_href":"#"
+			}
+		]
+	}
+]

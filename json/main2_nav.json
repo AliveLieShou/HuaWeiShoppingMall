@@ -1,0 +1,34 @@
+[
+	{
+		"result":[
+			{
+				"navlist_name":"荣耀",
+				"navlist_href":"#"
+			},
+			{
+				"navlist_name":"畅玩",
+				"navlist_href":"#"
+			},
+			{
+				"navlist_name":"华为 Mate/P系列",
+				"navlist_href":"#"
+			},
+			{
+				"navlist_name":"华为 nova系列",
+				"navlist_href":"#"
+			},
+			{
+				"navlist_name":"华为 G系列",
+				"navlist_href":"#"
+			},
+			{
+				"navlist_name":"华为 畅享系列",
+				"navlist_href":"#"
+			},
+			{
+				"navlist_name":"合约机",
+				"navlist_href":"#"
+			}
+		]
+	}	
+]
