@@ -1,0 +1,20 @@
+/*公共样式*/
+
+/*做项目不要用*号，一个一个罗列出来*/
+*{margin:0;padding:0;}
+ul,ol,li{
+	list-style:none;
+}
+a{text-decoration: none;}
+h1,h2,h3,h4,h5,h6,b,strong{
+	font-weight:normal;
+}
+i,em{
+	font-style:normal;
+}
+body{
+	font:12px "微软雅黑";
+}
+.left{float:left;}
+.right{float:right;}
+.clear{clear:both;}

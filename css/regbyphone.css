@@ -1,0 +1,201 @@
+.header,.nav,.main,.footer{
+	width: 988px;
+	margin:0 auto;
+}
+
+body{
+	background: #f1f1f1;
+}
+
+/*header*/
+.header_wrap{
+	background:#333333; 
+}
+.header{
+	height:67px;
+}
+.header p{
+	height: 62px;
+	line-height: 62px;
+	font-size: 22px;
+	color:#fff;
+}
+.header p img{
+	float: left;
+	margin-top: 9px;
+}
+.header p span{
+	margin-left: 8px;
+}
+
+/*nav*/
+.nav{
+	padding-top: 29px;
+	padding-bottom: 2px;
+}
+.nav .phone{
+	width: 139px;
+	height: 31px;
+	text-indent: 40px;
+	line-height: 30px;
+	margin-right: 4px;
+	color:#fff;
+	background: url(../images/icon/main_reg.png) no-repeat;
+}
+.nav .email{
+	width: 145px;
+	height: 31px;
+	text-indent: 49px;
+	line-height: 30px;
+	color:#fff;
+	background: url(../images/icon/main_reg.png) no-repeat -151px 0;
+}
+.nav>p{
+	height: 31px;
+	line-height: 30px;
+}
+.nav>p a{
+	text-decoration: underline;
+	color:#d70506;
+}
+
+/*main*/
+.main{
+	overflow: hidden;
+	background: #fff;
+	margin-bottom: 30px;
+}
+.main .box1,.main .box{
+	width: 795px;
+	margin:0 auto;
+	border-bottom: 1px solid #e0e0e0;
+}
+.main .box>h3{
+	margin-top: 41px;
+	margin-bottom: 21px;
+	font-size: 16px;
+	line-height: 16px;
+	color:#333;
+}
+.main .box>p{
+	color:#999;
+	margin-bottom: 33px;
+}
+.main .box>p>a{
+	text-decoration: underline;
+	color:#00c0f4;
+}
+/*box1*/
+.main .box1 h3{
+	margin-top: 35px;
+	line-height: 65px;
+	color:#000;
+	font-size: 26px;
+}
+.main .box1 p{
+	width: 788px;
+	padding-bottom: 30px;
+	color:#999;
+}
+/*box2*/
+.main .box2 input{
+	display: inline-block;
+	width: 161px;
+	height: 32px;
+	text-indent: 17px;
+	outline: none;
+}
+.main .box2 .get{
+	text-indent: 0;
+	text-align: center;
+	/*background:#f2f2f2;*/
+	/*border:1px solid #dcdcdc;*/
+	color:#333;
+}
+.main .box2 form .phone{
+	
+}
+.main .box2 form>p>span{
+	margin-right: 95px;
+}
+.main .box2 .code{
+	margin:30px 0;
+}
+
+.main .box2 form .frist{
+	margin-right:20px;
+}
+.main .box2 form .phone select{
+	width: 165px;
+	height: 36px;
+	text-indent: 14px;
+	outline: none;
+	border-color:#c5c5c5;
+}
+.main .box2 form .phone select option{
+	width: 163px;
+	height: 34px;
+}
+/*box6*/
+.main .box6{
+	margin-top:43px;
+}
+/*box7*/
+.main .box7{
+	border:0;
+}
+.main .box7 span{
+	display: inline-block;
+	width: 277px;
+	height: 43px;
+	margin:38px 0;
+	margin-left: 258px;
+	line-height: 43px;
+	text-align: center;
+	font-size: 14px;
+	color:#fff;
+	background: #d70506;
+	border:1px solid #9c9c9c;
+	cursor: pointer;
+}
+
+/*footer*/
+.footer{
+	padding-top: 34px;
+	padding-bottom: 25px;
+	text-align: center;
+	border-top: 1px solid #d7d7d7;
+}
+.footer>div{
+	margin-bottom: 12px;
+	line-height: 14px;
+	font-size: 14px;
+	color:#999;
+}
+.footer>div p{
+	display: inline-block;
+	margin-right: 15px;
+}
+.footer>div p a{
+	text-decoration: underline;
+	color:#999;
+}
+.footer>div div{
+	display: inline-block;
+}
+.footer>div div a{
+	color:#999;
+}
+.footer>div div:hover{
+	text-decoration: underline;
+}
+
+.footer>p{
+	color:#999;
+}
+
+
+
+
+
+

@@ -1,0 +1,169 @@
+.main,.footer{
+	width:1053px;
+	margin:0 auto;
+}
+
+/*主体*/
+body{
+	background:#f8f8f8;
+}
+.main{
+	min-height:740px;
+	border-bottom: 1px solid #d7d7d7;
+}
+.main .main_header{
+	height: 100px;
+}
+.main .main_header p{
+	height: 70px;
+	line-height: 70px;
+	font-size: 22px;
+	color:#999;
+}
+.main .main_header p img{
+	float: left;
+	margin-left: 31px;
+	margin-top: 12px;
+}
+.main .main_body{
+	overflow: hidden;
+}
+.main .main_left{
+	width: 664px;
+	min-height: 640px;
+	background: url(../images/logo/bg11.jpg) no-repeat 24px 0;
+}
+.main .main_right{
+	width: 299px;
+	margin-left: 5px;
+}
+.main .main_right h3{
+	height: 96px;
+	line-height: 142px;
+	font-size: 28px;
+	font-weight: bold;
+	color: #ea5e00;
+}
+.main .main_right .inbox input{
+	width: 278px;
+	height: 36px;	
+	border:1px solid #bcbcbc;
+	margin:7px 0;
+	text-indent: 16px;
+	font-size:14px; 
+	color:#ccc;
+	outline: 0;
+}
+.main .main_right .inbox .w143{
+	width: 143px;
+}
+.main .main_right .code{
+	display: inline-block;
+	margin-top: 7px;
+	margin-right: 9px;
+}
+.main .main_right .code img{
+	width: 100px;
+	height: 50px;		
+}
+.main .main_right .click{
+	margin-top: 16px;
+}
+.main .main_right>p>span:hover{
+	cursor:pointer;
+}
+.main .main_right .check_box{
+	width: 280px;
+	margin-top: 30px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #d7d7d7;
+}
+.main .main_right .check{
+	margin-top: 3px;
+}
+.main .main_right .check_box span:hover{
+	cursor:pointer;
+	text-decoration: underline;
+}
+.main .main_right .land{
+	width: 280px;
+	height: 44px;
+	margin-top: 20px;
+	margin-bottom: 19px;
+	line-height: 44px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	color:#fff;
+	background: #b40707;
+}
+.main .main_right .land:hover,.main .main_right .code:hover,.main .main_right .click:hover{
+	cursor: pointer;
+}
+.main .main_right .land_link .text{
+	float: left;
+	margin-top:5px;
+	margin-right: 3px;
+	color:#999;
+}
+.main .main_right .register{
+	margin-top: 12px;
+	margin-bottom: 18px;
+	color:#333;
+}
+.main .main_right .register a{
+	margin-left: 5px;
+	font-size: 14px;
+	font-weight: bold;
+	color:#ff9937;
+}
+.main .main_right .register a:hover{
+	cursor: pointer;
+}
+.main .main_right .explain{
+	line-height: 16px;
+	color:#999;
+} 
+
+/*footer*/
+.footer{
+	min-height: 172px;
+	text-align: center;
+}
+.footer>div{
+	margin-top: 30px;
+	line-height: 26px;
+	color:#999;
+}
+.footer>div p,.footer>div div{
+	display: inline-block;
+	font-size: 14px;
+}
+.footer>div p a,.footer>div div a{
+	color:#999;
+}
+.footer>div p{
+	text-decoration:underline; 
+	margin-right: 15px;
+}
+.footer>div div{
+	margin-left: 19px;
+}
+.footer>div div:hover{
+	text-decoration: underline;
+}
+
+.footer>p{
+	line-height: 24px;
+	color:#999;
+}
+
+
+
+
+
+
+
+
+
+
